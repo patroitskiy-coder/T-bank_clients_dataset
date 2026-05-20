@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933c3d22-f351-40d4-9281-c85fd99b38f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Preparing and model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_enc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/датасет1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/датасет2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/датасет3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preparing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +37,9 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="3DBAcWhdK9I3REekLyR8CWnU2kk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
