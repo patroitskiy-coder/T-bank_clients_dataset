@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933c3d22-f351-40d4-9281-c85fd99b38f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Preparing and model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_enc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/датасет1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/датасет2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/датасет3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preparing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preparing and model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Preparing and model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data3.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,5 +61,27 @@
       <updated>1777745168601</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Preparing and model.ipynb</url>
+          <line>147</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
